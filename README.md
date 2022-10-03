@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Dastan.  
+My name is <b>Dastan</b>.  
 
 
 About me:
