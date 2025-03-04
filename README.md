@@ -6,4 +6,4 @@ About me:
 
 - 🔭 Founder & CEO www.motionweb.kg
 - 🔭 Co-Founder www.tezkyzmat.kg
-- 🔭 Co-Founder www.aistgo.kg
+- 🔭 Co-Founder www.aistgo.ru
