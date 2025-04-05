@@ -4,4 +4,4 @@ My name is <b>Dastan Mukeev</b>.
 
 About me:
 - 🔭 Co-Founder www.tezkyzmat.kg
-- 🔭 Co-Founder www.b1rgo.com
+- 🔭 Co-Founder <a href='https://b1rgo.com' target='_blank'>www.b1rgo.com</a>
